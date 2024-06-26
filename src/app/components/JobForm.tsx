@@ -19,6 +19,7 @@ import {
 import { redirect } from 'next/navigation'
 import { useState } from 'react'
 import 'react-country-state-city/dist/react-country-state-city.css'
+// @ts-ignore
 import {
   CitySelect,
   CountrySelect,
