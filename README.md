@@ -1,7 +1,7 @@
 # Job Board
 
 ## Application with AI Vector Search for personal and organization usage 
-
+[Site](https://job-board-sxidsvit.vercel.app/)
 
 ### Used Technologies
 
